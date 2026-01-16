@@ -1,0 +1,36 @@
+/* PFh.css */
+
+body {
+    background-image: url('../CSS Assets/BG1.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 100%; 
+    scroll-behavior: auto;
+}
+
+.title-container {
+    margin-top: 200px; 
+    text-align: center;
+}
+
+.start-container {
+    margin:auto;
+    text-align: center;
+    padding: 50px;
+    width: 50px;
+    border: 10px slateblue
+}
+
+.tutorial-container {
+    margin:auto;
+    text-align:center;
+    padding: 50px;
+}
+
+.credits-container {
+    margin:auto;
+    text-align:center;
+    padding: 200px;
+}
