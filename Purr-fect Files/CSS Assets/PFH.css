@@ -1,4 +1,8 @@
 /* PFh.css */
+header {
+    height: 200px;
+    width: 100%;
+}
 
 body {
     background-image: url('../CSS Assets/BG1.png');
